@@ -1,2 +1,4 @@
 # hello-world
-just another 
+
+Hi,Everybody!
+I like Python because it's so easy!
